@@ -1,3 +1,4 @@
-# Home hello
+# Public github profile
+Repository for public facing github integrations. 
 
-The temporary home for JC-Electronics
+Edit profile to adjust the public homepage profile message.
